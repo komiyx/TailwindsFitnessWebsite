@@ -1,6 +1,6 @@
 # TailwindsFitnessWebsite
 Designed components built with html, javascript.
-## main for Tailwind CSS.
+# main for Tailwind CSS.
 
 ## Demo
 
