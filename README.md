@@ -1,7 +1,5 @@
 # TailwindsFitnessWebsite
-Designed components built with html, javascript.
-
-### Tailwinds Css
+Designed components built with html, javascript and main focus on Tailwinds Css.
 
 ## Demo
 
